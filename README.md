@@ -1,14 +1,5 @@
 # YSSE Course Search & Filter System
 
-Week 5 task for the **YSSE IT Department, Web Development & CMS Wing**: a course search and filter system built with HTML, CSS and vanilla JavaScript.
-
-## Live Demo
-
-**https://mishkatul6.github.io/YOUR-REPO-NAME/**
-
-Replace `YOUR-REPO-NAME` with your repository name (suggested: `YourName_Week5_Course_Search_Filter`) after you publish it with GitHub Pages (steps below).
-
-GitHub repository: `https://github.com/mishkatul6/YOUR-REPO-NAME`
 
 ## Features
 
