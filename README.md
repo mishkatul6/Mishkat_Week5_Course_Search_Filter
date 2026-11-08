@@ -1,11 +1,5 @@
 # YSSE Course Search & Filter System
 
-## Live Demo
-
-**https://mishkatul6.github.io/YOUR-REPO-NAME/**
-
-
-GitHub repository: `https://github.com/mishkatul6/YOUR-REPO-NAME`
 
 ## Features
 
