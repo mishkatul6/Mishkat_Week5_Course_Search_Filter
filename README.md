@@ -1,5 +1,11 @@
 # YSSE Course Search & Filter System
 
+## Live Demo
+
+**https://mishkatul6.github.io/YOUR-REPO-NAME/**
+
+
+GitHub repository: `https://github.com/mishkatul6/YOUR-REPO-NAME`
 
 ## Features
 
@@ -40,12 +46,8 @@ course-search-filter/
 ├── events.html
 ├── contact.html
 ├── style.css
-├── courses.js     # course data + createCourseCard()
-├── script.js      # search, filters, sort, reset
-├── course.js      # builds the course detail page
-├── enroll.js      # fills the course dropdown, handles submit
-├── home.js        # stats and featured courses
-├── contact.js     # contact form message
+├── MAIN.js     
+├── script.js      
 └── assets/
     ├── logo.png
     ├── wd.png
@@ -94,13 +96,6 @@ course-search-filter/
 
 Add one object to the `courses` array in `courses.js` with the next unused `id`. It will appear in the course list, get its own detail page and show up in the enrollment dropdown automatically.
 
-## Publish with GitHub Pages
-
-1. Create a repository and upload all project files, including `assets/`.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-4. After a minute, the site is live at `https://mishkatul6.github.io/YOUR-REPO-NAME/`.
-5. Paste that link at the top of this README.
 
 ## Notes
 
@@ -111,5 +106,6 @@ Add one object to the `courses` array in `courses.js` with the next unused `id`.
 
 ## Author
 
-Mishkatul · Pharmacy Department, Southern University Bangladesh
-YSSE IT Department · Web Development & CMS Wing · Week 5
+Mishkatul Islam
+Web Development & CMS Wing ·
+YSSE IT Department ·
